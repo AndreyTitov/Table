@@ -14,9 +14,5 @@ npm install
 npm run serve
 ```
 
-### Lints and fixes files
-```
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
