@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-socket.io": "^3.0.7",
+    "vuetify": "^2.0.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.10.0",
@@ -21,6 +23,8 @@
     "eslint-plugin-vue": "^5.0.0",
     "sass": "^1.18.0",
     "sass-loader": "^7.1.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue-cli-plugin-vuetify": "^0.6.3",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify-loader": "^1.2.2"
   }
 }
