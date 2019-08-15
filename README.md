@@ -1,4 +1,8 @@
-# web-socket
+# Table
+
+# VueJs + Vuetify data-table using websokcets as data
+
+# [Live demo](https://andreytitov.github.io/Table/dist/)
 
 ## Project setup
 ```
@@ -10,19 +14,8 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
 ### Lints and fixes files
 ```
-npm run lint
 ```
 
 ### Customize configuration
