@@ -1,6 +1,6 @@
 # Table
 
-# VueJs + Vuetify data-table using websokcets as data
+# VueJs + Vuetify data-table using websockets as data
 
 # [Live demo](https://andreytitov.github.io/Table/dist/)
 
